@@ -1,0 +1,22 @@
+{
+  "name": "clase11032016",
+  "version": "0.0.0",
+  "description": "nuevo package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenosome/clase11032016.git"
+  },
+  "keywords": [
+    "clase11032016"
+  ],
+  "author": "kenosome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenosome/clase11032016/issues"
+  },
+  "homepage": "https://github.com/kenosome/clase11032016#readme"
+}
